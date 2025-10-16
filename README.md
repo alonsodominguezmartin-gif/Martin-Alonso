@@ -1,4 +1,6 @@
-Me llamo Martín, tengo poca experiencia en programación
+Me llamo Martín
+
+Tengo poca experiencia en programación
 
 Soy de Cuenca
 
